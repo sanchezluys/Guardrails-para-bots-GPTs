@@ -1,4 +1,3 @@
-````md
 # 🛡️ AsisteClick GPT Guardrails
 
 > Repositorio colaborativo con **guardrails, buenas prácticas y patrones de diseño** para la creación de bots GPT en **AsisteClick**, utilizando la **OpenAI Response API** con modelos de las familias **GPT-4** y **GPT-5**.
@@ -163,5 +162,4 @@ Cada regla documentada en este repositorio busca mejorar la calidad, seguridad, 
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la licencia que defina el propietario del repositorio.
-````
 
